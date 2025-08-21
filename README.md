@@ -12,7 +12,7 @@ versotech-desafio/
 ## SQL
 - Local: [`sql/`](./sql)
 - Arquivo principal: [`solucoes_sql_postgres.sql`](./sql/solucoes_sql_postgres.sql)
-- Inclui também um `README.md` e um `HOWTO.md` opcionais para instruções de execução.
+- Inclui também um `README.md` para instruções de execução.
 
 ## PHP
 - Local: [`php/`](./php)
